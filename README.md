@@ -1,1 +1,0 @@
-### Webpack Tailwind SCSS Boilerplate
