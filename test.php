@@ -1,1 +1,1 @@
-<div class="py-40"></div> f
+<div class="py-20 bg-red-600"></div> f f

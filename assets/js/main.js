@@ -1,1 +1,1 @@
-console.log('dev')
+import "../scss/main.scss";
