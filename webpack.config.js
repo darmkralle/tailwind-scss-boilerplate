@@ -6,6 +6,9 @@ module.exports = {
         main: './assets/js/main.js'
     },
     watch: true,
+    watchOptions: {
+        ignored: /dist/,
+    },
     module: {
         rules: [
             {
